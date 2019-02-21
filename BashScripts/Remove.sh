@@ -4,7 +4,7 @@ IFS=","
 
 if [ $# -eq 0 ]
 then
-	echo "No file inputted"
+	echo "No file input."
 	echo "Usage: Remove.sh <file name>"
 	exit 2
 else
