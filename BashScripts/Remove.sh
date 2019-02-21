@@ -1,7 +1,6 @@
 #!/bin/bash
 
 IFS=","
-file=$1
 
 if [ $# -eq 0 ]
 then
